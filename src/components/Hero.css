@@ -1,0 +1,30 @@
+.hero{
+    padding:80px;
+
+    display:flex;
+
+    align-items:center;
+}
+
+.hero-left{
+    width:50%;
+}
+
+.hero-left h1{
+    font-size:60px;
+
+    margin-bottom:20px;
+
+    color:#1E293B;
+}
+
+.hero-left p{
+    font-size:20px;
+
+    color:#475569;
+
+    line-height:1.6;
+}
+.hero-right{
+    padding-left: 20%;
+}
