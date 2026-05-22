@@ -10,9 +10,8 @@ function Navbar(){
 
             <ul>
 
-                <li>Home</li>
+                <li>Đăng nhập</li>
 
-                <li>Courses</li>
 
                 <li>AI Assistant</li>
 

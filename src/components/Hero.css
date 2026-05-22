@@ -1,9 +1,7 @@
 .hero{
     padding:80px;
-
-    display:flex;
-
     align-items:center;
+    justify-content:space-between;
 }
 
 .hero-left{
@@ -27,4 +25,27 @@
 }
 .hero-right{
     padding-left: 20%;
+}
+.hero button{
+    margin-top: 30px;
+
+    padding: 15px 30px;
+
+    background-color: #1E293B;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 10px;
+
+    font-size: 18px;
+
+    cursor: pointer;
+}
+.hero button:hover{
+    background-color: #334155;
+}
+.hero button:active{
+    background-color: #1E293B;
 }

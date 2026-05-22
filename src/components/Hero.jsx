@@ -1,5 +1,5 @@
 import './Hero.css'
-import LoginForm from './LoginForm'
+//import LoginForm from './LoginForm'
 function Hero(){
 
     return(
@@ -19,11 +19,7 @@ function Hero(){
                 </p>
 
             </div>
-            <div className="hero-right">
-
-                <LoginForm />
-
-        </div>
+            <button type="submit">Tạo tài khoản miễn phí</button>
         </div>
 
     )

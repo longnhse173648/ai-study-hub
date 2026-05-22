@@ -1,6 +1,6 @@
 .navbar{
-    background:#0f172a;
-    color:white;
+    background:white;
+    color:#0f172a;
 
     display:flex;
 
@@ -10,10 +10,13 @@
 
     padding:20px 50px;
 }
-
+.navbar h2 {
+    font-size:24px;
+    color: #0f172a;
+}
 .navbar ul{
     display:flex;
     gap:30px;
-
+    cursor:pointer;
     list-style:none;
 }
